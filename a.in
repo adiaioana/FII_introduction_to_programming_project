@@ -1,0 +1,22 @@
+citeste a
+a <- a+3
+
+switch(a)
+{
+    case 1:
+    {
+        scrie a
+    }
+    case 2:
+    {
+        k <- 2
+        k<- k+3
+    }
+    case default:
+        k<-7
+}
+
+{
+
+citeste c
+scrie c
